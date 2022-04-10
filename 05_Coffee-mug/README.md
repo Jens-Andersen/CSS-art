@@ -1,0 +1,1 @@
+![Screenshot](coffee-mug.png)
